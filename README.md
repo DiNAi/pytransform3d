@@ -161,6 +161,4 @@ GUI.
 
 ## Contributing
 
-If you wish to report bugs, please use the issue tracker at Github.
-If you would like to contribute to pytransform3d, just open an issue or
-a merge request.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
